@@ -82,4 +82,11 @@
       </bt:LongStrings>
     </Resources>
   </VersionOverrides>
+
+  <!-- https://github.com/brahnavank/HelloAddin/tree/main/src/taskpane -->
+  <Resources>
+    <Url id="taskpaneUrl" DefaultValue="https://github.com/brahnavank/HelloAddin/tree/main/src/taskpane/taskpane.html"/>
+    <Url id="dialogUrl" DefaultValue="https://github.com/brahnavank/HelloAddin/tree/main/src/taskpane/dialog.html"/>
+  </Resources>
+
 </OfficeApp>
